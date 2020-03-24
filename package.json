@@ -1,6 +1,13 @@
 {
-	"author": "Robbe Motmans",
+	"author": "Robbe motmans",
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"description": "Exercise project from freecodecamp",
+	"keywords": [
+		"freecodecamp",
+		"exercise"
+	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,7 +16,7 @@
 		"start": "node server.js"
 	},
 	"engines": {
-		"node": "8.11.2"
+		"node": "4.4.5"
 	},
 	"repository": {
 		"type": "git",
